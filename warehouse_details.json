@@ -1,0 +1,15 @@
+{
+    "stockpile": {
+        "cocoa_powder": 180.00000000000023,
+        "milk_powder": 163.50000000000017,
+        "sugar": 159.0,
+        "milk_fat": 1088.9199999999996,
+        "yolk_powder": 636.0
+    },
+    "freezer": {
+        "Kapri": 377,
+        "Choco-Moco": 278,
+        "King": 188,
+        "Kornet": 288
+    }
+}

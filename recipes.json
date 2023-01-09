@@ -1,0 +1,6 @@
+{
+  "Kapri": {"cocoa_powder": 100, "milk_powder": 50, "sugar":  25, "milk_fat":  9},
+  "Choco-Moco": {"cocoa_powder": 150, "milk_powder": 30, "sugar": 35, "milk_fat": 11},
+  "King": {"cocoa_powder": 200, "milk_powder": 75, "sugar": 50, "milk_fat": 7},
+  "Kornet": {"cocoa_powder": 125, "milk_powder": 40, "sugar": 35, "yolk_powder": 1}
+}
